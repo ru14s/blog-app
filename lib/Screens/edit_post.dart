@@ -25,7 +25,7 @@ class EditScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: Colors.pink.shade200,
+        backgroundColor: Color(0xFF90D8F9),
         actions: [
           IconButton(
             onPressed: () {
